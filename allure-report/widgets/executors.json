@@ -1,0 +1,1 @@
+[{"name":"Jenkins","type":"jenkins","url":"http://localhost:9090/","buildOrder":13,"buildName":"Pytest_Credkart_Project #13","buildUrl":"http://localhost:9090/job/Pytest_Credkart_Project/13/","reportName":"AllureReport","reportUrl":"http://localhost:9090/job/Pytest_Credkart_Project/13/allure"}]
